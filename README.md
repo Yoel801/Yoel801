@@ -11,7 +11,6 @@ Soy un apasionado de la administración de sistemas, las redes y la automatizaci
 
 **Sistemas Operativos:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Redes y Virtualización:**
