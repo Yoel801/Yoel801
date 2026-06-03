@@ -1,20 +1,18 @@
-## Hi there 👋
-
-# Hola, soy Yoel Vicente
+# Hola, soy Yoel 👋
 ### Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)
 
-Soy un apasionado de la administración de sistemas y de las redes. Me encanta explorar nuevas tecnologías para optimizar infraestructuras y mejorar la seguridad.
+Soy un apasionado de la administración de sistemas, las redes y la automatización. Me encanta explorar nuevas tecnologías para optimizar infraestructuras y mejorar la seguridad.
+
 - 🔭 Actualmente trabajando en: **Preparación de curso de Cisco CCNA**
-- 🌱 Actualmente aprendiendo: **Ciberseguridad por mi cuenta**
+- 🌱 Actualmente aprendiendo: **Redes**
 - 💬 Pregúntame sobre: **Linux, Windows, Redes Cisco y Virtualización.**
 - 📫 Cómo contactarme: **alfayoel0@gmail.com**
-
 ### 🛠️ Tecnologías y Herramientas
 
 **Sistemas Operativos:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Redes y Virtualización:**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -27,4 +25,4 @@ Soy un apasionado de la administración de sistemas y de las redes. Me encanta e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Estadísticas de Yoel801](https://github-readme-stats.vercel.app/api?username=Yoel801&show_icons=true&theme=radical)
