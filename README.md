@@ -23,5 +23,3 @@ Soy un apasionado de la administración de sistemas, las redes y la automatizaci
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 📊 Estadísticas de GitHub
-![Estadísticas de Yoel801](https://github-readme-stats.vercel.app/api?username=Yoel801&show_icons=true&theme=radical)
