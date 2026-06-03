@@ -4,7 +4,7 @@
 Soy un apasionado de la administración de sistemas, las redes y la automatización. Me encanta explorar nuevas tecnologías para optimizar infraestructuras y mejorar la seguridad.
 
 - 🔭 Actualmente trabajando en: **Preparación de curso de Cisco CCNA**
-- 🌱 Actualmente aprendiendo: **Redes**
+- 🌱 Actualmente aprendiendo: **Redes + Python**
 - 💬 Pregúntame sobre: **Linux, Windows, Redes Cisco y Virtualización.**
 - 📫 Cómo contactarme: **alfayoel0@gmail.com**
 ### 🛠️ Tecnologías y Herramientas
