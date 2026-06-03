@@ -11,10 +11,11 @@ Soy un apasionado de la administración de sistemas, las redes y la automatizaci
 
 **Sistemas Operativos:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Redes y Virtualización:**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=green)
+![Cisco](https://img.shields.io/badge/Cisco-44CC11?style=for-the-badge&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
