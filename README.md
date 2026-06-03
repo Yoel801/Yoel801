@@ -17,7 +17,7 @@ Soy un apasionado de la administración de sistemas, las redes y la automatizaci
 **Redes y Virtualización:**
 ![Cisco](https://img.shields.io/badge/Cisco-44CC11?style=for-the-badge&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-2CA5E0?style=for-the-badge&logo=ansible&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-2CA5E0?style=for-the-badge&logo=ansible&logoColor=white)
 
 
 **Scripting y Herramientas:**
