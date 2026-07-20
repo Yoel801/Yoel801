@@ -6,7 +6,7 @@ Soy un apasionado de la administración de sistemas, las redes y la automatizaci
 - 🔭 Actualmente trabajando en: **Preparación de curso de Cisco CCNA**
 - 🌱 Actualmente aprendiendo: **Redes + Python**
 - 💬 Pregúntame sobre: **Linux, Windows, Redes Cisco y Virtualización.**
-- 📫 Cómo contactarme: **yvicentecaro@gmail**
+- 📫 Cómo contactarme: **yvicentecaro@gmail.com**
 ### 🛠️ Tecnologías y Herramientas
 
 **Sistemas Operativos:**
